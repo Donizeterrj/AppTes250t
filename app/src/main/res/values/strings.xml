@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temperatura</string>
+    <string name="c_to_f">Celsius to Fahrenheit</string>
+    <string name="f_to_c">Fahrenheit to Celsius</string>
+    <string name="add_fare">Qual a temperatura Fahrenheit ?</string>
+    <string name="calc">Converter</string>
+    <string name="add_celsius">Qual a temperatura Celsius</string>
+</resources>
